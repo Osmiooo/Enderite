@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "enderite:enderite_ore"
+  },
+  "result": "enderite:enderite_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}
