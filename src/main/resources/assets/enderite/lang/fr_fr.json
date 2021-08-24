@@ -3,5 +3,7 @@
   "item.enderite.enderite_helmet": "Casque d'enderite",
   "item.enderite.enderite_chestplate": "Plastron d'enderite",
   "item.enderite.enderite_leggings": "Jambières d'enderite",
-  "item.enderite.enderite_boots": "Bottes d'enderite"
+  "item.enderite.enderite_boots": "Bottes d'enderite",
+  "item.enderite.enderite_fragment": "Fragment d'enderite",
+  "block.enderite.enderite_ore": "Minerai d'enderite"
 }

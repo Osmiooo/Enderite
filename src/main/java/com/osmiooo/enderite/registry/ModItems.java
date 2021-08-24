@@ -9,8 +9,10 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
     public static final Item ENDERITE_INGOT = new Item(new Item.Settings().group(ItemGroup.MISC));
+    public static final Item ENDERITE_FRAGMENT = new Item(new Item.Settings().group(ItemGroup.MISC));
 
     public static void registerItems() {
         Registry.register(Registry.ITEM, new Identifier(Enderite.MOD_ID, "enderite_ingot"), ENDERITE_INGOT);
+        Registry.register(Registry.ITEM, new Identifier(Enderite.MOD_ID, "enderite_fragment"), ENDERITE_FRAGMENT);
     }
 }

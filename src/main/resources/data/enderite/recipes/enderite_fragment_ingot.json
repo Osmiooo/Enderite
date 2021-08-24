@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "enderite:enderite_fragment"
+    }
+  },
+  "result": {
+    "item": "enderite:enderite_ingot",
+    "count": 1
+  }
+}
