@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Enderite Mod
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is adding a new ore to the game : Enderite. It's better than netherite, and can be found in the end. More will come soon !
