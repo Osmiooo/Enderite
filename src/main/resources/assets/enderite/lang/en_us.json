@@ -5,5 +5,10 @@
   "item.enderite.enderite_leggings": "Enderite Leggings",
   "item.enderite.enderite_boots": "Enderite Boots",
   "item.enderite.enderite_fragment": "Enderite Fragment",
-  "block.enderite.enderite_ore": "Enderite Ore"
+  "block.enderite.enderite_ore": "Enderite Ore",
+  "item.enderite.enderite_sword": "Enderite Sword",
+  "item.enderite.enderite_pickaxe": "Enderite Pickaxe",
+  "item.enderite.enderite_axe": "Enderite Axe",
+  "item.enderite.enderite_shovel": "Enderite Shovel",
+  "item.enderite.enderite_hoe": "Enderite Hoe"
 }

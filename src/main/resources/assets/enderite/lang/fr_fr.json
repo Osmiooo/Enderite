@@ -5,5 +5,10 @@
   "item.enderite.enderite_leggings": "Jambières d'enderite",
   "item.enderite.enderite_boots": "Bottes d'enderite",
   "item.enderite.enderite_fragment": "Fragment d'enderite",
-  "block.enderite.enderite_ore": "Minerai d'enderite"
+  "block.enderite.enderite_ore": "Minerai d'enderite",
+  "item.enderite.enderite_sword": "Épée en enderite",
+  "item.enderite.enderite_pickaxe": "Pioche en enderite",
+  "item.enderite.enderite_axe": "Hache en enderite",
+  "item.enderite.enderite_shovel": "Pelle en enderite",
+  "item.enderite.enderite_hoe": "Houe en enderite"
 }
